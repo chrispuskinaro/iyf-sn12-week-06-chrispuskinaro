@@ -3,7 +3,7 @@
 
 **Student:** Chrispus Kinaro  
 **Season:** Season-12 | IYF Weekend Academy  
-**Live Demo:** [Add your GitHub Pages link here after deploy]
+**Live Demo:** [https://chrispuskinaro.github.io/iyf-sn12-week-06-chrispuskinaro/]
 
 ## Project Overview
 Weather dashboard using OpenWeatherMap API. This project feeds CommunityHub frontend pattern - the fetch + loading/error pattern used here is exactly how CommunityHub loads data.
