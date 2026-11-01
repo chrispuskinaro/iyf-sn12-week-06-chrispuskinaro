@@ -1,4 +1,4 @@
- 
+  
 # Week 06 - Lesson 12: Working with APIs - Weather Dashboard
 
 **Student:** Chrispus Kinaro  
