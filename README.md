@@ -1,4 +1,4 @@
-
+ 
 # Week 06 - Lesson 12: Working with APIs - Weather Dashboard
 
 **Student:** Chrispus Kinaro  
@@ -30,6 +30,6 @@ Weather dashboard using OpenWeatherMap API. This project feeds CommunityHub fron
 3. Open `index.html` with Live Server
 
 ## Security
-`config.js` is in `.gitignore`. For deployment, API key is stored as GitHub Secret `OPENWEATHER_API_KEY` and created by `.github/workflows/deploy.yml`:
+`config.js` is in `.gitignore`. For deployment, API key is stored as GitHub Secret `OPENWEATHER_API_KEY` and created by `.github/workflows/deploy.yml`: 
 ```yaml
 echo "const API_KEY = '${{ secrets.OPENWEATHER_API_KEY }}';" > config.js
